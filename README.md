@@ -1,25 +1,29 @@
 # JustineLlamera
 
-About me:
+# About Me
 
-I am Juan Dela Cruz, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Information Technology program.
+Hi there! 👋 I'm Juan Dela Cruz, passionate about coding and proficient in database management. I enjoy tackling complex problems and architecting elegant solutions. My journey in the tech realm commenced with my pursuit of a BS in Information Technology.
 
-Education:
-BS Information Technology
-New Era University
-2021-Present
+## Education
 
-Certification:
-Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate
-Oracle Cloud Data Management 2023 Certified Foundations Associate
-Oracle Cloud Infrastructure 2023 Certified Foundations Associate
-SQL and Relational Databases 101
+- **BS Information Technology**
+  - New Era University
+  - 2021-Present
 
-Skill sets:
-Programming :  Java, Javascript
-Databases: IBM DB2 Cloud
-Tools:  Lucidchart, Jaspersoft Studio, Eclipse, HTML
+## Certifications
 
-You may reach me at:
-LinkedIn: LinkedIn profile link
-Email: juandelacruz@gmail.com
+- **Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate**
+- **Oracle Cloud Data Management 2023 Certified Foundations Associate**
+- **Oracle Cloud Infrastructure 2023 Certified Foundations Associate**
+- **SQL and Relational Databases 101**
+
+## Skill Sets
+
+- **Programming:** Java, JavaScript
+- **Databases:** IBM DB2 Cloud
+- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
+
+## Reach Me
+
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/juandelacruz/)
+- Email: juandelacruz@gmail.com
